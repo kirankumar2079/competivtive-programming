@@ -8,7 +8,7 @@ The input file contains 4 integer values.
 Output
 Print DIFERENCA (DIFFERENCE in Portuguese) with all the capital letters, according to the following example, with a blank space before and after the equal signal.
 
-Input Samples	Output Samples
+ Input Samples	Output Samples
 5             duiffer=-26
 6
 7
