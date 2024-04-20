@@ -1,7 +1,7 @@
 /* question
-* * * 
-* * 
-*
+  *  
+ *** 
+*****
 */
 
 #include<bits/stdc++.h>
