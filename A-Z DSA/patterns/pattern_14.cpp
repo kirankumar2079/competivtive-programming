@@ -1,7 +1,9 @@
 /* question
-1 
-2 3 
-4 5 6 
+A 
+A B 
+A B C 
+A B C D 
+A B C D E 
 */
 
 #include<bits/stdc++.h>
