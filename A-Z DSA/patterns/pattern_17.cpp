@@ -1,9 +1,9 @@
 /* question
-A B C D E 
-A B C D 
-A B C 
-A B 
-A 
+    A     
+   A B A    
+  A B C B A   
+ A B C D C B A  
+A B C D E D C B A
 */
 
 #include<bits/stdc++.h>
