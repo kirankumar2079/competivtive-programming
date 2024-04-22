@@ -4,8 +4,7 @@
 ## Found the resources on takeuforward.org [takeuforward](https://takeuforward.org)
 
 ### Pattern 01 
-###  *****
-###  *****
+###  ***** <br> *****
 ###  *****
 ###  *****
 ###  *****
