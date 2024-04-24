@@ -1,4 +1,4 @@
-# CSES is a website that has problems and resources for coding
+# [CSES](https://cses.fi/) is a website that has problems and resources for coding
 
 ## The Algorithms course in that site has 100 problems and I am trying to learn algorithms by following that couse and solving the problems.
 
